@@ -56,6 +56,19 @@ To start the application, run the following command:
 dotnet run
 ```
 
+
+# Alternative Installation (Docker)
+
+## 1. Build Docker Image
+```
+docker build -t <ImageName> .
+```
+
+## 2. Run Docker Container
+```
+docker run -it --rm -p 3000:8080 --name <ContainerName> <ImageName>
+```
+
 ---
 
 # Customizing Seed Data
