@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 1,
+    "Title": "Case of assaulting an officer in Ratchaburi",
+    "Envidents": ["CCTV footage", "Testimony from an eyewitness named Ms. Kor"],
+    "ProsecutionStatus": "Prosecuted"
+  },
+  {
+    "Id": 2,
+    "Title": "Case of gold shop robbery in Lampang",
+    "Envidents": [
+      "CCTV footage from the shop",
+      "Fingerprints found at the crime scene",
+      "Testimony from the shop staff"
+    ],
+    "ProsecutionStatus": "Prosecuted"
+  },
+  {
+    "Id": 3,
+    "Title": "Case of online defamation in Pathum Thani",
+    "Envidents": [
+      "Messages posted on online platforms",
+      "Screenshots recorded by the victim",
+      "Testimony from witnesses"
+    ],
+    "ProsecutionStatus": "Under Review"
+  },
+  {
+    "Id": 4,
+    "Title": "Case of car theft in Chonburi",
+    "Envidents": [
+      "CCTV footage showing the theft",
+      "GPS location of the stolen car",
+      "Testimony from the car owner"
+    ],
+    "ProsecutionStatus": "Prosecuted"
+  },
+  {
+    "Id": 5,
+    "Title": "Case of house burglary in Chiang Mai",
+    "Envidents": [
+      "Photos of forced entry",
+      "Fingerprints found at the crime scene",
+      "Testimony from the homeowner"
+    ],
+    "ProsecutionStatus": "Under Review"
+  },
+  {
+    "Id": 6,
+    "Title": "Case of investment fraud in Bangkok",
+    "Envidents": [
+      "Investment contract signed between the victim and the suspect",
+      "Bank statements showing fund transfers",
+      "Testimony from the victim"
+    ],
+    "ProsecutionStatus": "Prosecuted"
+  },
+  {
+    "Id": 7,
+    "Title": "Case of illegal drug possession in Phuket",
+    "Envidents": [
+      "Seized drugs",
+      "Testimony from the arresting officer",
+      "Lab results confirming the substance"
+    ],
+    "ProsecutionStatus": "Prosecuted"
+  },
+  {
+    "Id": 8,
+    "Title": "Case of cyber hacking in Nonthaburi",
+    "Envidents": [
+      "Server logs showing unauthorized access",
+      "IP address tracking",
+      "Testimony from the IT administrator"
+    ],
+    "ProsecutionStatus": "Under Investigation"
+  }
+]
