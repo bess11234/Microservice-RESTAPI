@@ -1,7 +1,7 @@
 # Prerequisites
 
 Ensure you have the following installed:
-- [.NET SDK 7.0](https://dotnet.microsoft.com/download)
+- [.NET SDK 9.0](https://dotnet.microsoft.com/download)
 - Any IDE (e.g., [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://code.visualstudio.com/))
 - Basic understanding of C# and Entity Framework Core
 
