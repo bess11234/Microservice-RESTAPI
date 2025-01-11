@@ -79,11 +79,16 @@ docker run -it --rm -p 3000:8080 --name <ContainerName> <ImageName>
 
 # Testing
 
-You can use tools like **Postman** or **curl** to test the API endpoints.
+You can use tools like **Postman** or **curl** or **Insomnia** to test the API endpoints.
 
-Example `GET` request to fetch all lawsuits:
+(Local) Example `GET` request to fetch all lawsuits:
 ```bash
 GET http://localhost:5106/api/Lawsuit/
+```
+
+(Docker) Example `GET` request to fetch all lawsuits:
+```bash
+GET http://localhost:3000/api/Lawsuit/
 ```
 
 ---
